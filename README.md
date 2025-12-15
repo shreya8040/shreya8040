@@ -11,4 +11,4 @@ My (very basic) portfolio: portfolio.withshreya.tech
 I like building small apps but at the same time, I’m looking to collaborate on open source projects and make an impact!
 
 
-  ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/{shreya8040}/count.svg)
