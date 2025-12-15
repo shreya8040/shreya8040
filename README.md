@@ -2,9 +2,9 @@
 
 
 I'm on a forever quest of discovering and learning more about my twin passions: art and tech - both on their own plus all the interdisciplinary/children fields!
-I wrote a review paper about them too : https://zenodo.org/records/17606681
+   I wrote a review paper about them too : https://zenodo.org/records/17606681
 
-My (very basic) portfolio: portfolio.withshreya.tech
+My (very basic) portfolio: [portfolio.withshreya.tech](https://portfolio.withshreya.tech/)
 
 
 I speak: <img width="24" height="24" alt="icons8-javascript-48" src="https://github.com/user-attachments/assets/21c9ab88-ae26-4c8b-b63a-7491513ee22c" /> <img width="24" height="24" alt="icons8-python-24" src="https://github.com/user-attachments/assets/417041b0-316f-4229-87c1-54f5edc2c2de" /> <img width="24" height="24" alt="icons8-lua-24" src="https://github.com/user-attachments/assets/b802843a-f3f7-4b0e-b1c6-e516ada4389a" />
