@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Shreya
 
 
-I'm on a forever quest of discovering and learning more about my twin passions: art and tech - both on their own plus all the interdisciplinary/children fields!
-   I wrote a review paper about them too : https://zenodo.org/records/17606681
+I'm on a forever quest of discovering and learning more about my twin passions: art and tech - both on their own plus all the interdisciplinary/children fields!  
+        I wrote a review paper about them too : https://zenodo.org/records/17606681
 
 My (very basic) portfolio: [portfolio.withshreya.tech](https://portfolio.withshreya.tech/)
 
@@ -13,7 +13,7 @@ Technically, I speak: <img width="24" height="24" alt="icons8-javascript-48" src
 
 Icons by <a target="_blank" href="https://icons8.com">Icons8</a>
 
-Apart from art and tech, I love to read comics (ACKs and Tinkles) , play sports like badminton,basketball and cricket and... yeah pretty much anything alse I do is related to art or tech - sketch/paint/illustrate, craft stuff with paper cardboard and clay, tinker around on gadget settings, try to confuse and therefore test different LLMs, test different apps/websites or go down a rabbit hole researching about a vast topic like...computer networks or cybersecurity to learn something!
+Apart from art and tech, I love to read comics (ACKs and Tinkles) , play sports like badminton,basketball and cricket and... yeah pretty much anything alse I do is related to art or tech - sketch/paint/illustrate, craft stuff with paper cardboard and clay, tinker around on gadget settings, try to confuse and therefore test different LLMs, test different apps/websites or go down a rabbit hole trying to learn something by researching about a vast topic like...computer networks or cybersecurity!
 
 I like building small apps but at the same time, I’m looking to collaborate on open source projects and make an impact
 
