@@ -34,7 +34,7 @@ Open to collaborate : hello@withshreya.tech
 
 
 
-Apart from art and tech, I love to read comics (ACKs and Tinkles) , play sports like badminton,basketball and cricket and... yeah pretty much anything alse I do is related to art or tech - sketch/paint/illustrate, craft stuff with paper cardboard and clay, tinker around on gadget settings, try to confuse and therefore test different LLMs, test different apps and websites -I'm into consumer tech- or go down a rabbit hole trying to learn something by researching about a vast topic like...computer networks or cybersecurity.
+Apart from art and tech, I love to read comics, play sports like badminton,basketball and cricket and... yeah pretty much anything alse I do is related to art or tech - sketch/paint/illustrate, craft stuff with paper cardboard and clay, tinker around on gadget settings, try to confuse and therefore test different LLMs, test different apps and websites -I'm into consumer tech- or go down a rabbit hole trying to learn something by researching about a vast topic like...computer networks or cybersecurity.
 
 
 
