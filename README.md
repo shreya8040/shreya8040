@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Shreya
 
 
-I'm on a forever quest of discovering and learning more about my twin passions: art and tech - both on their own plus all the interdisciplinary/children fields!  
-        I wrote a review paper about them too : https://zenodo.org/records/17606681
+I'm on a forever quest of discovering and learning more about my twin passions: art and tech - both on their own plus all the interdisciplinary fields. 
+        I wrote a review paper about this symbiosis: https://zenodo.org/records/17606681
 
 My skills and projects: [Github page](https://shreya8040.github.io/)
 
