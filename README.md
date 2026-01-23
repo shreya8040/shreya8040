@@ -24,9 +24,7 @@ Apart from art and tech, I love to read comics, play sports like badminton,baske
 
 
 
-Open to collaborate : hello@withshreya.tech
-
-[CV](https://drive.google.com/file/d/1PEXZABNJD3Iqffxf1YJSu_JLFbApkvdD/view?usp=sharing)
+Open to collaborate : hello@withshreya.tech  |  [CV](https://drive.google.com/file/d/1PEXZABNJD3Iqffxf1YJSu_JLFbApkvdD/view?usp=sharing)
 
 
 
