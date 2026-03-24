@@ -4,7 +4,7 @@
 I'm on a forever quest of discovering and learning more about my twin passions: art and tech - both on their own plus all the interdisciplinary fields. 
         I wrote a review paper about this symbiosis: https://zenodo.org/records/17606681
 
-My skills and projects: https://drive.google.com/file/d/1uFRN7mlTchjbiXXBvWBOe5CqEAWwMuDM/view?usp=sharing
+My skills and projects:   [CV](https://drive.google.com/file/d/1PEXZABNJD3Iqffxf1YJSu_JLFbApkvdD/view?usp=sharing)
 
 
 `Technically` I speak : <img width="24" height="24" alt="icons8-typescript-24" src="https://github.com/user-attachments/assets/6d0c3039-113c-4e95-9281-f8bd96b092d7" />  <img width="24" height="24" alt="icons8-javascript-48" src="https://github.com/user-attachments/assets/21c9ab88-ae26-4c8b-b63a-7491513ee22c" /> <img width="24" height="24" alt="icons8-react-js-24" src="https://github.com/user-attachments/assets/fcc5c9cc-4957-4c62-a0de-ba9a4ae6467c" /> <img width="24" height="24" alt="icons8-node-js-24" src="https://github.com/user-attachments/assets/cbf7b962-6567-4070-91f3-1383c5754bb4" /> <img width="24" height="24" alt="p5" src="https://github.com/user-attachments/assets/c8f942c2-88c5-4dac-8bdc-a647dff4ea6f" />   <img width="24" height="24" alt="electron" src="https://github.com/user-attachments/assets/ede7eb94-1503-4235-a958-d4b933288e7d" /> <img width="24" height="24" alt="icons8-python-24" src="https://github.com/user-attachments/assets/417041b0-316f-4229-87c1-54f5edc2c2de" /> <img width="24" height="24" alt="icons8-lua-24" src="https://github.com/user-attachments/assets/b802843a-f3f7-4b0e-b1c6-e516ada4389a" /> <img width="24" height="24" alt="icons8-c++-24" src="https://github.com/user-attachments/assets/fc0a8b44-641b-4719-a674-c7dba32c4c88" /> <img width="24" height="24" alt="icons8-c-programming-24" src="https://github.com/user-attachments/assets/5deeaea4-5dbc-455e-a855-bee76c99fe70" />
@@ -21,10 +21,12 @@ While I like building small apps, I’m also looking to collaborate on open sour
 
 Apart from art and tech, I love to read comics, play sports like badminton,basketball and cricket and... yeah pretty much anything alse I do is related to art or tech - sketch/paint/illustrate, craft stuff with different materials, tinker around on gadget settings, try to confuse and therefore test different LLMs, test different apps and websites -I'm into consumer tech- or go down a rabbit hole trying to learn something by researching about a vast topic like...computer networks or cybersecurity.
 
+My tech enthusiast self: [Youtube](https://www.youtube.com/@techstuffbasically/featured)
 
 
 
-Open to collaborate : hello@withshreya.tech  |  [CV](https://drive.google.com/file/d/1PEXZABNJD3Iqffxf1YJSu_JLFbApkvdD/view?usp=sharing)
+
+Open to collaborate : hello@withshreya.tech  
 
 
 
